@@ -7,9 +7,12 @@ On my **[LinkedIn](https://www.linkedin.com/in/besarkapllani/)** you can read mo
 **Languages:**
 - Java
 - Python
-- Bash
+- Bash Scripting
+
 I am currently learning C, and I hope to delve into C++ soon enough!
+
 **Operating Systems**
 - Windows
 - Linux
+
 (Mostly for personal usage, but I am familiar with their basic functionalities)
