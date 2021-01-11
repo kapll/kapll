@@ -3,16 +3,11 @@ My name is Besar, and I am a second year computer science student.<br>
 I am an enthusiastic learner and passionate about computer science!
 On my **[LinkedIn](https://www.linkedin.com/in/besarkapllani/)** you can read more about who I am, my education, and my past experiences. Feel free to connect!
 
-## My Skills:
+## What I Do:
 **Languages:**
-- Java
+- C
 - Python
-- Bash Scripting
+- Shell Scripting
+- Java
 
-I am currently learning C, and I hope to delve into C++ soon enough!
-
-**Operating Systems**
-- Windows
-- Linux
-
-(Mostly for personal usage, but I am familiar with their basic functionalities)
+I am also familiar with some of the features of Linux/Unix-like systems through my usage of Ubuntu and Arch
